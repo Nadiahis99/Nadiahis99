@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nadia Hisham</h1>
-<h3 align="center">💻 Computer Science Student | Web & Software Developer 🚀</h3>
+<h3 align="center">💻 Computer Science Student |  Software Engineer 🚀</h3>
 
 ---
 
 ### 🌟 About Me
 - 🎓 I’m currently studying **Computer Science**
-- 💡 I’m learning **ASP.NET MVC**, **C#**, and **Web Development**
+- 💡 I’m learning **ASP.NET MVC**, **C#**, and **.NET Development **
 - 🌱 I’m passionate about creating clean, functional, and creative web apps
 - 🌐 Check out my Portfolio: [nadiahis99.github.io/Nadia_Hisham](https://nadiahis99.github.io/Nadia_Hisham/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nadia-hisham00/)  
